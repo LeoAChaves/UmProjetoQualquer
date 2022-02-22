@@ -5,6 +5,9 @@ body {
   background-size: contain;
   cursor: grab;
 }
+main {
+  font-family: "Redressed", cursive;
+}
 header {
   width: 100%;
   height: 70px;

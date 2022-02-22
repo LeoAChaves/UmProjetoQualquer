@@ -3,3 +3,8 @@
 main {
   height: calc(100vh - 170px);
 }
+.frase_do_dia {
+  background-color: goldenrod;
+  text-align: center;
+  padding: 10px 0;
+}
