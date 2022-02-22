@@ -65,3 +65,58 @@ footer {
   color: darkblue;
   text-shadow: 2px 2px 2px cyan;
 }
+.modal_container {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 5000;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+.modal_container.mostrar {
+  display: flex;
+}
+.modal {
+  background-color: rgba(127, 255, 212, 0.8);
+  width: 450px;
+  height: 150px;
+  border-radius: 20px 40px 20px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Redressed", cursive;
+  font-size: 20px;
+  box-shadow: 5px 5px 5px cadetblue;
+  position: relative;
+}
+.fechar_modal {
+  cursor: grabbing;
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  width: 25px;
+  height: 25px;
+  outline: none;
+  border: none;
+  border-radius: 50%;
+  background-color: rgba(255, 0, 0, 0.7);
+}
+
+@keyframes modal {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -60px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.mostrar .modal {
+  animation: modal 0.3s;
+}
