@@ -6,6 +6,8 @@
 a {
   color: inherit;
   text-decoration: none;
+  padding: 5px;
+  cursor: grabbing;
 }
 body {
   user-select: none;

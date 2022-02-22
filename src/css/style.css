@@ -1,1 +1,5 @@
 @import "./global.css";
+
+main {
+  height: calc(100vh - 170px);
+}
