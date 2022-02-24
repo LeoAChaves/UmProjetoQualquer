@@ -8,7 +8,7 @@ const daily = [
     "23-02" = {
         "quote":'"Give me six hours to chop down a tree and I will spend the first four sharpening the axe." - Abraham Lincoln',
         "pokemon":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
-        "apod":"",
+        "apod":"https://apod.nasa.gov/apod/image/2202/GreenBankOrion_Green_960.jpg",
         "minecraft":"Bottle_of_Enchanting.gif"
     },
     "24-02" = {
