@@ -33,7 +33,7 @@ nav ul {
   font-family: "Press Start 2P", cursive;
   color: indianred;
   text-shadow: 3px 3px 3px orange;
-  cursor: not-allowed;
+  cursor: grabbing;
 }
 main {
   display: flex;
