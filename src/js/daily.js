@@ -12,9 +12,15 @@ const daily = [
         "minecraft":"Bottle_of_Enchanting.gif"
     },
     "24-02" = {
-        "quote":"",
+        "quote":`"If one's life is simple, contentment has to come. Simplicity is extremely important for happiness." - Dalai Lama`,
         "pokemon":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
         "apod":"https://apod.nasa.gov/apod/image/2202/albireoSpectrum1024.jpg",
         "minecraft":"Enchanted_Book.gif"
+    },
+    "25-02" = {
+        "quote":"",
+        "pokemon":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+        "apod":"https://apod.nasa.gov/apod/image/2202/PerseveranceSol354Nav1_1br2_KenKremer1024.jpg",
+        "minecraft":"Bone.png"
     },
 ]
