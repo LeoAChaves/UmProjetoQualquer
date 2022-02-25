@@ -5,3 +5,5 @@
 3° Dia (23/02/2022) - A ideia inicial é que a HOME apresente coisas diferentes todos os dias. Uma frase, um pokemon, uma imagem astronômica e um item do minecraft.
 
 4° Dia (24/02/2022) - Por enquanto estou atualizando manualmente os itens do dia, enquanto planejo a criação de uma API própria para eles.
+
+5° Dia (25/02/2022) - Novamente, apenas atualizando os itens do dia.
