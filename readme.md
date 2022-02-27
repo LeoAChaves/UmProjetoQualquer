@@ -6,4 +6,6 @@
 
 4° Dia (24/02/2022) - Por enquanto estou atualizando manualmente os itens do dia, enquanto planejo a criação de uma API própria para eles.
 
-5° Dia (25/02/2022) - Novamente, apenas atualizando os itens do dia.
+5° Dia (25/02/2022) - Apenas atualizando os itens do dia.
+
+6° Dia (26/02/2022) - Novamente, apenas atualizando os itens do dia.
