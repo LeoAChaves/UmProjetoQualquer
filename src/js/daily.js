@@ -23,4 +23,10 @@ const daily = [
         "apod":"https://apod.nasa.gov/apod/image/2202/PerseveranceSol354Nav1_1br2_KenKremer1024.jpg",
         "minecraft":"Bone.png"
     },
+    "26-02" = {
+        "quote":"",
+        "pokemon":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/262.png",
+        "apod":"https://apod.nasa.gov/apod/image/0001/m31_cxo.jpg",
+        "minecraft":"Red_Bed.png"
+    },
 ]
