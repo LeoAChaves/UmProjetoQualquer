@@ -11,3 +11,5 @@
 6° Dia (26/02/2022) - Novamente, apenas atualizando os itens do dia.
 
 7° Dia (27/02/2022) - Preciso de novas ideias para as próximas páginas
+
+8° Dia (28/02/2022) - Uma frase extra: "Um dia difícil te da oportunidade de aprender a viver melhor os dias mais calmos."
