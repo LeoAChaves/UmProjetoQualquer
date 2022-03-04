@@ -41,4 +41,34 @@ const daily = [
         "apod":"https://apod.nasa.gov/apod/image/2202/MoonHands_Graphy_960.jpg",
         "minecraft":""
     },
+    "29-02" = {
+        "quote":"",
+        "pokemon":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/292.png",
+        "apod":"",
+        "minecraft":""
+    },
+    "01-03" = {
+        "quote":"",
+        "pokemon":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+        "apod":"",
+        "minecraft":""
+    },
+    "02-03" = {
+        "quote":"",
+        "pokemon":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+        "apod":"",
+        "minecraft":""
+    },
+    "03-03" = {
+        "quote":"",
+        "pokemon":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+        "apod":"",
+        "minecraft":""
+    },
+    "04-03" = {
+        "quote":"",
+        "pokemon":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+        "apod":"",
+        "minecraft":""
+    },
 ]
