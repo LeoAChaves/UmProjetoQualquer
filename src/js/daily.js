@@ -72,7 +72,7 @@ const daily = [
         "minecraft":""
     },
     "20-03" = {
-        "quote":'Nem todo "final feliz" significa "juntos para sempre"',
+        "quote":'Not every "happy ending" means "together forever". - Me',
         "pokemon":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
         "apod":"",
         "minecraft":""
