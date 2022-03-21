@@ -13,3 +13,5 @@
 7° Dia (27/02/2022) - Preciso de novas ideias para as próximas páginas
 
 8° Dia (28/02/2022) - Uma frase extra: "Um dia difícil te da oportunidade de aprender a viver melhor os dias mais calmos."
+
+9° Dia (20/03/2022) - Tive um "desvianeio". Aprendi a fazer uma API Rest, e vou tentar voltar a deselvolver esse projetinho.
